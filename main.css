@@ -1,0 +1,22 @@
+body {
+    direction: rtl;
+    overflow-x: hidden;
+}
+@font-face {
+    font-family: 'myfont';
+    src: url('./fonts/Vazirmatn-Regular.ttf');
+}
+* {
+    font-family: 'myfont';
+}
+#fw9 {
+    font-weight: 900px;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+.wh-im {
+    width: 338px;
+    height: 300px !important;
+}
